@@ -41,7 +41,7 @@ matplotlib==3.7.1
 more-itertools==9.1.0
 multiclass-metrics==0.0.1
 notebooklog==0.0.2
-numba==0.57.1
+numba>=0.57.0
 numpy==1.24.3
 openpyxl>=3.1.2
 optuna==3.2.0
