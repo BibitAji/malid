@@ -10,7 +10,7 @@
 # see https://github.com/google/jax#installation and https://github.com/ElArkk/jax-unirep/blob/b8048db1c12014c815d1b53e7b55cff8d2f688d8/install_jaxgpu.sh#L6
 --find-links https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
 
-jax [cuda11_pip] >= 0.4.13, < 1
+jax 
 # cuda suffix must match cudatoolkit version in rapidgenomics_cuda.yml and in environment variables (see README)
 torch
 torchaudio
