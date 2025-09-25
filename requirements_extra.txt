@@ -11,7 +11,7 @@ ablang
 
 # numpy must already be installed before we install glmnet
 # https://github.com/civisanalytics/python-glmnet
-glmnet 
+pyglmnet 
 # TODO: Switch to this fork: https://github.com/replicahq/python-glmnet. See https://github.com/civisanalytics/python-glmnet/issues/76#issuecomment-2104878939
 
 # install jax first before installing jax-unirep
